@@ -1,6 +1,4 @@
-# Disclaimer: This is for educational/testing purposes only. Data gathered may not be
-# accurate, and may not always be real time. This is only a project I've been working
-# on just for fun and convenience so I can get information about stocks quickly.
+# Disclaimer: This is for educational/testing purposes only. Data gathered may not be accurate, and may not always be real time. This is only a project I've been working on just for fun and convenience so I can get information about stocks quickly.
 
 import yfinance as yf
 import pandas as pd
